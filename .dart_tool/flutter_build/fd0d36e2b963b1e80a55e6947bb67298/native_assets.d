@@ -1,0 +1,1 @@
+ D:\\MY\ APP\ MOBILE\ LEARNING\\.dart_tool\\flutter_build\\fd0d36e2b963b1e80a55e6947bb67298\\native_assets.yaml: 

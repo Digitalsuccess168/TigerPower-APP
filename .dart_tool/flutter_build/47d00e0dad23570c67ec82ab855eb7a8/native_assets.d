@@ -1,0 +1,1 @@
+ D:\\MY\ APP\ TIGER\ POWER\ PRODUCT\\.dart_tool\\flutter_build\\47d00e0dad23570c67ec82ab855eb7a8\\native_assets.yaml: 

@@ -1,0 +1,3 @@
+
+ for biuld apk
+flutter build apk --build-name=TigerPower --build-number=3

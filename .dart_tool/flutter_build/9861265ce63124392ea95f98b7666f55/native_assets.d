@@ -1,0 +1,1 @@
+ C:\\Users\\TUF\\Documents\\GitHub\\TigerPower-APP\\.dart_tool\\flutter_build\\9861265ce63124392ea95f98b7666f55\\native_assets.yaml: 
