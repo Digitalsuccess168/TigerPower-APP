@@ -573,7 +573,7 @@ List<Product> demoProducts = [
       // Colors.white,
     ],
     title: "Premium Raw Wild Honey-HONEY V-380ml",
-    price: 25.0,
+    price: .0,
     description: description,
     rating: 4.1,
     isFavourite: true,
@@ -888,4 +888,4 @@ List<Product> demoProducts = [
 ];
 
 const String description =
-    "នេះគ្រាន់តែជាការបង្ហាញផលិតផលរបស់យើងខ្ញុំតែប៉ុណ្ណោះ​ សូមលោកអ្នកបញ្ជាទិញឬទំនាក់ទំទងជាមួយសហការីរបស់យើងខ្ញុំ\nសូមអរគុណ🙏";
+    "នេះគ្រាន់តែជាការបង្ហាញផលិតផលរបស់យើងខ្ញុំតែប៉ុណ្ណោះ​ សូមលោកអ្នកបញ្ជាទិញឬទំនាក់ទំទងជាមួយសហការីរបស់យើងខ្ញុំ សូមអរគុណ🙏";

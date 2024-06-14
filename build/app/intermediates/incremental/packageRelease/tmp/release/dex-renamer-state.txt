@@ -1,4 +1,4 @@
-#Fri Jun 14 14:27:49 ICT 2024
+#Fri Jun 14 14:52:42 ICT 2024
 base.0=C\:\\Users\\TUF\\Documents\\GitHub\\TigerPower-APP\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
